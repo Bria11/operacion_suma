@@ -12,6 +12,7 @@ Suma por operandos
 ###Equipo de desarrollo
 | Apellidos y nombres | Rol | 
 | ------------------- | --- | 
+| Cortez Ponce, Brianna | Desarrollador |
 | Maseen Cullen, Edward | Jefe de proyecto |
 | Tomas Pattison, Robert | Analista |
 
@@ -44,3 +45,4 @@ suma_valida/
 
 
 
+git
