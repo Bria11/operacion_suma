@@ -1,3 +1,24 @@
+# Aplicación operación Suma
+## Descripción
+El script implementa la suma de dos numeros y realiza la validación los operandos.
+## Funcionalidades
+Suma por operandos
+**Verifica** que los operandos sean numeros (int o float)
+  
+  [Repositorio GitHub](https://github.com/Bria11/operacion_suma.git)
+
+ ![Imagen de un gato](https://upload.wikimedia.org/wikipedia/commons/9/9c/Un_gato_con_efectos_Tumblr.jpg)
+  
+###Equipo de desarrollo
+| Apellidos y nombres | Rol | 
+| ------------------- | --- | 
+| Maseen Cullen, Edward | Jefe de proyecto |
+| Tomas Pattison, Robert | Analista |
+
+
+📄 Licencia
+Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
+
 # Suma de Dos Números con Validación en Python
 
 Este script permite sumar dos números ingresados por el usuario, verificando que los operandos sean de tipo `int` o `float`.
@@ -19,21 +40,7 @@ Este script permite sumar dos números ingresados por el usuario, verificando qu
 suma_valida/
 ├── suma.py
 └── README.md
-  
-
-  
-###Equipo de desarrollo
-| Apellidos y nombres | Rol | 
-| ------------------- | --- |
-|Cortez Ponce, Brianna | Desarrolladora |
-| Maseen Cullen, Edward | Jefe de proyecto |
-| Tomas Pattison, Robert | Analista |
 
 
-📄 Licencia
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
-
-
- ![Imagen de un gato](https://upload.wikimedia.org/wikipedia/commons/9/9c/Un_gato_con_efectos_Tumblr.jpg)
 
 
