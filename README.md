@@ -5,4 +5,4 @@ El script implementa la suma de dos numeros y realiza la validación los operand
 - Suma por operandos
 - **Verifica** que los operandos sean numeros (int o float)
   
-  [Repositorio GitHub](https://github.com/Bria11/operacion_sum.git)
+  [Repositorio GitHub](https://github.com/Bria11/operacion_suma.git)
