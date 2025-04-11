@@ -9,4 +9,8 @@ El script implementa la suma de dos numeros y realiza la validación los operand
 
  ![Imagen de un gato](https://upload.wikimedia.org/wikipedia/commons/9/9c/Un_gato_con_efectos_Tumblr.jpg)
   
-
+###Equipo de desarrollo
+| Apellidos y nombres | Rol | 
+| ------------------- | --- | 
+| Maseen Cullen, Edward | Jefe de proyecto |
+| Tomas Pattison, Robert | Analista |
